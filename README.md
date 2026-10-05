@@ -1,4 +1,4 @@
-# Chrismas
+# Christmas
 
 <sub>Prices were checked on the 5/10/2026, things may change in 2 months</sub>
 
@@ -11,5 +11,3 @@
 - [ ] [iFixit Mako Driver Kit](https://www.ifixit.com/en-au/products/mako-driver-kit-64-precision-bits)
   
   - $67.99 (at the time of making this md file)
-
-
