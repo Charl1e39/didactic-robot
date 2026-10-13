@@ -6,7 +6,9 @@
   
   - Comes with Windows, but I'd immediately install SteamOS on it anyway
   
-  - Only $999 (at the time of making this md file), and actually available locally at JB (instead of only on Steam like the Steam Deck) 
+  - Only $999 (at the time of making this md file), and actually available locally at JB (instead of only on Steam like the Steam Deck)
+  
+  <sub>Yeah, i know its expensive as hell, but I do want it.</sub>
 
 - [ ] [iFixit Mako Driver Kit](https://www.ifixit.com/en-au/products/mako-driver-kit-64-precision-bits)
   
